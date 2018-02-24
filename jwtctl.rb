@@ -1,8 +1,8 @@
 class Jwtctl < Formula
   desc "JWT Generator/Reader CLI"
   homepage "https://github.com/leomillon/jwtctl"
-  url "https://github.com/leomillon/jwtctl/releases/download/1.0.0-BETA4/jwtctl-1.0.0-BETA4.zip"
-  sha256 "874f00fae47db1a730485d6fd3d159eab4282eed7cfd0fc5cd28a5793b0f7380"
+  url "https://github.com/leomillon/jwtctl/releases/download/1.0.0/jwtctl-1.0.0.zip"
+  sha256 "6e7ea394fb6693a3e281032e6e0ed6f0fcee0c3527c11f8cde0b3879e550d030"
   head "https://github.com/leomillon/jwtctl.git"
 
   depends_on "bash-completion" => :recommended
